@@ -1,0 +1,4 @@
+{"name":"Ramesh","phone":"9000000001","passwordHash":"$2b$10$WdGNupOKqN6PEKSJAcwAkejxuVlckhhc0VfYzYKY7iziuANrw5J.2","role":"farmer","location":"Nashik","_id":"GERpMS7cIQqyMzU0"}
+{"name":"Sunita","phone":"9000000002","passwordHash":"$2b$10$WuKyFzBRUw0jPqUCpar/XOpmkpXg2.2i0nPjrtgxtaWH4EtG5PLRa","role":"buyer","location":"Pune","_id":"wRI6eCX4wKBF9mZW"}
+{"$$indexCreated":{"fieldName":"phone","unique":true,"sparse":false}}
+{"$$indexCreated":{"fieldName":"phone","unique":true}}

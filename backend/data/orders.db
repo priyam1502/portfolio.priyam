@@ -1,0 +1,2 @@
+{"$$indexCreated":{"fieldName":"buyerId","unique":false,"sparse":false}}
+{"$$indexCreated":{"fieldName":"farmerId","unique":false,"sparse":false}}
